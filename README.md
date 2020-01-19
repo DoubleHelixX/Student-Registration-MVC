@@ -1,5 +1,7 @@
 # Student-Registration-MVC
-Open via Jave EE  About: 
+Open via Jave EE  
+
+About: 
 My first MVC Framework Project that was done in my CST 4713 - Dynamic Web DevelopmentL Servlet and JSP course.  
 
 What is it:
